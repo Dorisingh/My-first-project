@@ -4,3 +4,5 @@
 It is my second time on Github, I am still learning.
 
 Currently, I am learning Python and looking for good resources on Python.
+
+Currently, I work as a hardware engineer in a company.
