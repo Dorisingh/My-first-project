@@ -10,4 +10,4 @@ Currently, I work as a hardware engineer in a company.
 I want to learn python and build softwares and want help companies with their softwares remotely.
 
 
-Hi Everyone, I am back.
+Hi Everyone, I am back. Its 2022 and I am learning about blockchain development.
